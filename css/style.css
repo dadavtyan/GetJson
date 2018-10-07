@@ -1,0 +1,36 @@
+.area{
+	display:flex;
+	justify-content:space-around;
+}
+
+#form-area{
+    width: 210px;
+}
+
+.user{
+    width: 90%;
+    padding: 5%;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#data{
+    width: 100%;
+}
+
+.user:hover{
+   background: darkcyan;
+}
+
+input{
+    width: 100%;
+    height: 35px;
+    font-size: 17px;
+}
+
+#map{
+    width:400px;
+    height:400px;
+    background:yellow;
+}
